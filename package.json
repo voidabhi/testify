@@ -1,6 +1,6 @@
 {
   "name": "tagstar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Testing CI",
   "main": "app.js",
   "directories": {
@@ -15,7 +15,10 @@
   "bin": {
     "tags": "./bin/tags"
   },
-  "dependencies": {},
+  "dependencies": {
+		"mocha":"",
+		"chai":""
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
