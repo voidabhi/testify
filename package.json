@@ -1,0 +1,26 @@
+{
+  "name": "tagstar",
+  "version": "0.0.1",
+  "description": "Testing CI",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Testing","Tags"
+  ],
+  "bin": {
+    "tags": "./bin/tags"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "author": "Abhijeet Mohan",
+  "license": "MIT"
+}
