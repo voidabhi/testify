@@ -1,4 +1,4 @@
-testify
+Testify
 =======
 
 JSTesting
