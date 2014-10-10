@@ -1,7 +1,7 @@
 Testify
 =======
 
-JSTesting
+Trivial repo for js testing
 
 [![Build Status](https://travis-ci.org/voidabhi/testify.svg)](https://travis-ci.org/voidabhi/testify)
 
